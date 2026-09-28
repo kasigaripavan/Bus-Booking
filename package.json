@@ -1,0 +1,21 @@
+{
+  "name": "mini-bus-booking-mvp",
+  "version": "1.0.0",
+  "description": "Mini Bus Booking MVP with Express backend and static frontend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "mini-bus",
+    "booking",
+    "mvp",
+    "transport"
+  ],
+  "author": "Copilot",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
